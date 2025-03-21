@@ -1,19 +1,19 @@
 {
-  "name": "lambda-nodejs-starter",
+  "name": "aws-lambda-cicd-example",
   "version": "1.0.0",
-  "description": "",
+  "description": "Example project for AWS Lambda CI/CD pipeline integration with GitHub",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aashari/lambda-nodejs-starter.git"
+    "url": "git+https://github.com/aashari/aws-lambda-cicd-example.git"
   },
   "author": "aashari",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aashari/lambda-nodejs-starter/issues"
+    "url": "https://github.com/aashari/aws-lambda-cicd-example/issues"
   },
-  "homepage": "https://github.com/aashari/lambda-nodejs-starter#readme"
+  "homepage": "https://github.com/aashari/aws-lambda-cicd-example#readme"
 }
