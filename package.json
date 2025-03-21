@@ -1,5 +1,5 @@
 {
-  "name": "aws-lambda-cicd-example",
+  "name": "example-aws-lambda-cicd",
   "version": "1.0.0",
   "description": "Example project for AWS Lambda CI/CD pipeline integration with GitHub",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aashari/aws-lambda-cicd-example.git"
+    "url": "git+https://github.com/aashari/example-aws-lambda-cicd.git"
   },
   "author": "aashari",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aashari/aws-lambda-cicd-example/issues"
+    "url": "https://github.com/aashari/example-aws-lambda-cicd/issues"
   },
-  "homepage": "https://github.com/aashari/aws-lambda-cicd-example#readme"
+  "homepage": "https://github.com/aashari/example-aws-lambda-cicd#readme"
 }
